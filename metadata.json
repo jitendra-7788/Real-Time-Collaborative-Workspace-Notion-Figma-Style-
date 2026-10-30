@@ -1,0 +1,6 @@
+{
+  "name": "Kortex Workspace",
+  "description": "Next-generation real-time collaborative workspace combining documents, rich text editing, live presence, kanban task boards, and team coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
