@@ -2,9 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/54c6cd1c-623b-445a-b5f2-7204d4b698ee
-
-## Run Locally
+## Running link https://kortexworkspace.ai.studio
 
 **Prerequisites:**  Node.js
 
